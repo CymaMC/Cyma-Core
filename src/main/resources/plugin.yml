@@ -1,1 +1,33 @@
-
+name: Cyma-Core
+version: ${project.version}
+main: com.emopedia.Cyma
+authors: [ emopedia ]
+description: Official plugin for the Minecraft server, Cyma.
+commands:
+  start:
+    description: Command to get your starter gear.
+    permission: core.start
+    permission-message: §e§lCORE §8| §7You do not have permission to execute this command.
+  rules:
+    description: Rules of the server.
+    permission: core.rules
+    permission-message: §e§lCORE §8| §7You do not have permission to execute this command.
+  discord:
+    description: Invite to the server Discord.
+    permission: core.discord
+    permission-message: §e§lCORE §8| §7You do not have permission to execute this command.
+  fly:
+    description: Able to fly in gamemodes other than creative or spectator.
+  feed:
+    permission: core.feed
+    permission-message: §e§lCORE §8| §7You do not have permission to execute this command.
+  heal:
+    permission: core.heal
+    permission-message: §e§lCORE §8| §7You do not have permission to execute this command.
+  invsee:
+    permission: core.invsee
+    permission-message: §e§lCORE §8| §7You do not have permission to execute this command.
+  broadcast:
+    description: Broadcast a message to the entire server.
+    permission: core.broadcast
+    permission-message: §e§lCORE §8| §7You do not have permission to execute this command.
