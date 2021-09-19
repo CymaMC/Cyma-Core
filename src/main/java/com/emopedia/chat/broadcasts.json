@@ -1,1 +1,26 @@
-
+[
+  {
+    "id": "news",
+    "message": "\n&7Donate to help support Cyma! &ehttps://store.cymamc.com\n ",
+  },
+  {
+    "id": "discord",
+    "message": "\n&7Join our Discord server listed in &e/discord&7!\n "
+  },
+  {
+    "id": "server",
+    "message": "\n&7Join back with the IP &eplay.cymamc.com &7or using &e/join Cyma &7from the lobby!\n "
+  },
+  {
+    "id": "report",
+    "message": "\n&7Found someone that might be hacking? Report them using the command &e/report&7!\n "
+  },
+  {
+    "id": "github",
+    "message": "\n&7Want to help develop the server? Check out our GitHub! &ehttps://github.com/CymaMC\n "
+  },
+  {
+    "id": "island",
+    "message": "\n&7Interested in building an island for Cyma? Try checking out our Discord server! &e/discord\n "
+  }
+]
